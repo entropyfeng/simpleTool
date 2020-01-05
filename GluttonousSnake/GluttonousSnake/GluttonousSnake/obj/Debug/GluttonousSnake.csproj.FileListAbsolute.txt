@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.FormMain.resources
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Properties.Resources.resources
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe.config
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.pdb
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.exe
+C:\Users\dell\Desktop\GluttonousSnake\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.pdb
